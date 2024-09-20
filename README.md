@@ -1,5 +1,5 @@
-- 👋 Olá, sou @BrunaGoes7
-- 👀 Estou interessado(a) em desenvolvimento web, design de interfaces e automação de processos.
+- 👋 Olá, sou Bruna
+- 👀 Estou interessada em desenvolvimento web, design de interfaces e automação de processos.
 - 🌱 Atualmente estou aprendendo React, Firebase e integração com APIs.
 - 💞️ Procuro colaborar em projetos que envolvam criação de sites, aplicações web e soluções criativas para problemas do dia a dia.
 - 📫 Como entrar em contato comigo: brunagoes7@hotmail.com ou através do meu LinkedIn.
